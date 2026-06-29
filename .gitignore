@@ -1,0 +1,11 @@
+# binaries
+/convertthis
+/convertthis.exe
+/out/
+
+# tailwind standalone CLI (downloaded locally)
+/tailwindcss
+/tailwindcss.exe
+
+# OS
+.DS_Store
